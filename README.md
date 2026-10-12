@@ -31,12 +31,13 @@ The goal of BazarDor is to make daily market price information more accessible t
 
 ##
 
+
 ## 📌 Project Name
 
 **বাংলা:** বাজার দর
 
 **English:** BazarDor
 
----
+
 
 *BazarDor — বাজারের দর জানুন, সচেতনভাবে কিনুন।*
