@@ -23,7 +23,7 @@
 
 ## 🚀 Getting Started
 
-### Prerequisites
+
 
 Make sure you have the following installed:
 
