@@ -1,43 +1,76 @@
-# 🛒 বাজার দর | BazarDor
+# 🛒 BazarDor — বাজার দর
 
-**BazarDor** is a web-based platform that helps users explore daily market prices of essential commodities in Bangladesh. Users can check product prices, compare market rates, and track price changes to make informed purchasing decisions.
+**BazarDor** is a web application designed to help people in Bangladesh access daily market prices of essential commodities. It provides a convenient way to explore products, check available prices, and compare rates to make more informed shopping decisions.
 
 ## ✨ Key Features
 
-1. **📊 Daily Market Prices** — Browse the latest available prices of essential products, including rice, lentils, oil, vegetables, fish, meat, eggs, and spices.
+* **Daily Market Prices:** Explore available prices of essential products, including rice, lentils, cooking oil, vegetables, fish, meat, eggs, and spices.
+* **Category-Based Browsing:** Find products easily by browsing different categories.
+* **Price Sorting:** Sort products by price to find options that fit your budget.
+* **User Authentication:** Register and sign in securely using Better Auth, with social sign-in options where configured.
+* **Responsive Design:** Access the application through desktop, tablet, and mobile devices.
 
-2. **🏪 Market-Wise Price Comparison** — View market-based prices to compare rates and make better purchasing decisions.
-
-3. **📈 Price Trends & Statistics** — Explore average, minimum, and maximum prices, along with price changes where data is available.
-
-4. **🔍 Product Search & Filtering** — Browse products by category and sort them by price for a more convenient shopping experience.
-
-5. **🔐 User Authentication** — Create an account and sign in using email and password, Google, or GitHub, depending on the configured authentication providers.
-
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 * **Next.js** — React framework for building the web application.
-* **React** — Component-based user interface development.
+* **React** — Building interactive user interfaces.
 * **Tailwind CSS** — Responsive styling and layout.
-* **HeroUI** — Reusable UI components.
-* **Better Auth** — User authentication and social sign-in.
-* **MongoDB** — Database for storing application data.
-* **JavaScript** — Application logic and interactivity.
-* **React Hot Toast** — User-friendly success and error notifications.
+* **HeroUI** — UI components for a consistent user experience.
+* **Better Auth** — Authentication and session management.
+* **MongoDB** — Database management.
+* **JavaScript** — Application logic and functionality.
+* **React Hot Toast** — Notifications for user actions and application feedback.
 
-## 🎯 Project Goal
+## 🚀 Getting Started
 
-The goal of BazarDor is to make daily market price information more accessible to people in Bangladesh, helping them compare prices and make informed decisions about their everyday shopping.
+### Prerequisites
 
-##
+Make sure you have the following installed:
 
+* [Node.js](https://nodejs.org/)
+* npm
+* A MongoDB database
 
-## 📌 Project Name
+### Installation
 
-**বাংলা:** বাজার দর
+1. Clone the repository:
 
-**English:** BazarDor
+   ```bash
+   git clone <your-repository-url>
+   ```
 
+2. Navigate to the project directory:
 
+   ```bash
+   cd <project-folder>
+   ```
 
-*BazarDor — বাজারের দর জানুন, সচেতনভাবে কিনুন।*
+3. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Configure the required environment variables in a `.env` file.
+
+5. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+6. Open http://localhost:3000 in your browser.
+
+## 🎯 Project Objective
+
+BazarDor aims to make everyday market price information easier to access and understand. By bringing product information and available prices together in one place, the platform helps users make more informed decisions when shopping for daily essentials.
+
+## 📌 Project Information
+
+* **Project Name:** বাজার দর (BazarDor)
+* **Project Type:** Web Application
+* **Primary Audience:** Consumers in Bangladesh
+
+---
+
+**BazarDor — Know the prices. Shop smarter.**
