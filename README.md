@@ -21,45 +21,6 @@
 * **JavaScript** — Application logic and functionality.
 * **React Hot Toast** — Notifications for user actions and application feedback.
 
-## 🚀 Getting Started
-
-
-
-Make sure you have the following installed:
-
-* [Node.js](https://nodejs.org/)
-* npm
-* A MongoDB database
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone <your-repository-url>
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd <project-folder>
-   ```
-
-3. Install the dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Configure the required environment variables in a `.env` file.
-
-5. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
-
-6. Open http://localhost:3000 in your browser.
 
 ## 🎯 Project Objective
 
