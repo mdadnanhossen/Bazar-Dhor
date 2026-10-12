@@ -78,10 +78,7 @@ export default async function RootLayout({ children }) {
           </div>
 
           {/* দাম কমেছে */}
-          {/* <div className="w-full max-w-5xl mx-auto mt-6">
-            <p className="text-2xl font-bold">
-              <span className="text-green-600">▼</span> আজ দাম কমেছে
-            </p> */}
+        
 
             <div className="grid grid-cols-3 gap-4 mt-4">
               {downProducts.map((product) => (
